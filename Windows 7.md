@@ -3,6 +3,7 @@
 * [Windows 7 SSD Tweaking Guide](http://www.overclock.net/t/1133897/windows-7-ssd-tweaking-guide)
 * [Solid State Drive (SSD) Tweaks for Windows 7](https://www.computing.net/howtos/show/solid-state-drive-ssd-tweaks-for-windows-7/552.html)
 * [Windows 7 tweaks for modern SSDs](http://www.pcadvisor.co.uk/how-to/windows/windows-7-tweaks-for-modern-ssds-3374812/)
+* [10 Tips for SSD Optimization in Windows 7](http://www.disk-partition.com/kb/tips-ssd-optimization-windows7-1.html)
 * [How to install software on a second hard drive. Plus: how to move Program Files folder](http://www.pcadvisor.co.uk/how-to/windows/how-install-software-second-hard-drive-move-program-files-folder-in-windows-3500581/)
 
 #### Migrate Windows 7 to SSD
