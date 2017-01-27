@@ -1,5 +1,5 @@
 ### Anaconda
-* [Downloads](https://www.continuum.io/downloads)
+* [Downloads](https://www.continuum.io/downloads) and install 64-bits Python3
 * Install/Run iPython NoteBook
 ```
 conda install jupyter
