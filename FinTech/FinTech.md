@@ -17,3 +17,6 @@ jupyter notebook
 #### GraphLab Create
 * [Personal Guide]( https://turi.com/download/install-graphlab-create.html?email=time2036%40gmail.com&key=0360-B08B-4F11-BC43-60C5-4A1E-AB71-8BF4&utm_medium=email&utm_source=transactional&utm_campaign=beta_registration_confirmation)
 * [API Doc](https://turi.com/products/create/docs/)
+
+#### Examples
+* http://tetration.xyz/lumpsum_vs_dca/
