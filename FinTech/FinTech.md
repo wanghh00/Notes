@@ -3,6 +3,7 @@
 * [Quantopian](https://www.quantopian.com/home)
 * [INTRO TO ALGORITHMIC TRADING WITH HEIKIN-ASHI](https://quantiacs.com/Blog/Intro-to-Algorithmic-Trading-with-Heikin-Ashi.aspx)
 * [Python Algorithmic Trading Library](http://gbeced.github.io/pyalgotrade/)
+* [Technical analysis Indicators without Talib](https://www.quantopian.com/posts/technical-analysis-indicators-without-talib-code)
 
 ### Anaconda
 * [Downloads](https://www.continuum.io/downloads) and install 64-bits Python3
