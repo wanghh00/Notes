@@ -14,5 +14,6 @@
 
 #### [Princenton Junction](http://www.zillow.com/homes/for_sale/Princeton-Junction-NJ-08550/house_type/61105_rid/4-_beds/4-_baths/600000-_price/2292-_mp/globalrelevanceex_sort/40.339413,-74.530392,40.226793,-74.714928_rect/12_zm/)
 * [143 Penn Lyle Rd Princeton Junction, NJ 08550](http://www.zillow.com/homes/for_sale/Princeton-Junction-NJ-08550/house_type/39036477_zpid/61105_rid/4-_beds/4-_baths/600000-_price/2292-_mp/globalrelevanceex_sort/40.339413,-74.530392,40.226793,-74.714928_rect/12_zm/) Need more infor
+* [10 Craftwood Dr, Princeton, NJ 08540](http://matrixweb.trendmls.com/Matrix/Public/Portal.aspx?k=27542156XJSQB&p=DE-18728319-472#1)
 
 #### [Plainsboro](http://www.zillow.com/homes/for_sale/NJ-08536/house_type/2098541280_zpid/61099_rid/4-_beds/4-_baths/750000-_price/2864-_mp/globalrelevanceex_sort/40.393692,-74.494858,40.281162,-74.679394_rect/12_zm/)
