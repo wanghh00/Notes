@@ -8,5 +8,5 @@
 * [4 Hilltop Rd, Short Hills, NJ 07078](http://www.zillow.com/homedetails/4-Hilltop-Rd-Short-Hills-NJ-07078/38677744_zpid/)
 * [2 Hamilton Rd, Short Hills, NJ 07078](http://www.zillow.com/homes/for_sale/Short-Hills-NJ/house_type/38679368_zpid/13829_rid/4-_beds/3-_baths/0-2000000_price/0-7637_mp/3000-_size/mostrecentchange_sort/40.795423,-74.23771,40.683567,-74.422246_rect/12_zm/X1.dash.SS1rtei2ltir47f_3csw9_sse/)
 
-#### Summit
+#### [Summit](http://www.zillow.com/homes/for_sale/Summit-NJ-07901/0_fr/1_fs/house_type/60862_rid/4-_beds/4.0-_baths/0-1500000_price/0-5638_mp/40.757595,-74.271613,40.665991,-74.425421_rect/X1-SS1rvmeppzan5zf_1sm5d_sse/)
 * [91 Druid Hill Rd,Summit, NJ 07901](http://www.zillow.com/homedetails/91-Druid-Hill-Rd-Summit-NJ-07901/40068477_zpid/)
