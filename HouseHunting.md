@@ -10,3 +10,4 @@
 
 #### [Summit](http://www.zillow.com/homes/for_sale/Summit-NJ-07901/0_fr/1_fs/house_type/60862_rid/4-_beds/4.0-_baths/0-1500000_price/0-5638_mp/40.757595,-74.271613,40.665991,-74.425421_rect/X1-SS1rvmeppzan5zf_1sm5d_sse/)
 * [91 Druid Hill Rd,Summit, NJ 07901](http://www.zillow.com/homedetails/91-Druid-Hill-Rd-Summit-NJ-07901/40068477_zpid/)
+* [19 Highland Dr, Summit, NJ 07901](http://www.zillow.com/homes/for_sale/Summit-NJ-07901/house_type/40068762_zpid/60862_rid/4-_beds/4-_baths/0-1500000_price/0-5729_mp/mostrecentchange_sort/40.816927,-74.238568,40.606394,-74.458294_rect/11_zm/X1.dash.SS1rvmeppzan5zf_1sm5d_sse/)
