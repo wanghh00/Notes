@@ -13,7 +13,6 @@
 
 #### Download Windows 7 Disc Images (ISO Files) by Production Key
 * https://www.microsoft.com/en-us/software-download/home
-* 7CCHC-2TBQY-6GVJY-8BR6F-FHWD8
 * MS Case #: 1370650143 for incorrect language for windows 7 ISO
 
 #### Install an SSD in your PC and Windows 7
