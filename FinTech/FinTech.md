@@ -1,4 +1,4 @@
-#### python pandas stock analysis
+#### Python Pandas Stock Analysis
 * [An Introduction to Stock Market Data Analysis with Python](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/)
 * [Quantopian](https://www.quantopian.com/home)
 * [INTRO TO ALGORITHMIC TRADING WITH HEIKIN-ASHI](https://quantiacs.com/Blog/Intro-to-Algorithmic-Trading-with-Heikin-Ashi.aspx)
