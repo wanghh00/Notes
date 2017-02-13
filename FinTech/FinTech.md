@@ -21,9 +21,9 @@ jupyter notebook
 * [Using multiple Python engines 32Bit/64bit and 2.7/3.5](http://stackoverflow.com/questions/33709391/using-multiple-python-engines-32bit-64bit-and-2-7-3-5)
 
 #### Conda Frequently Used Commands
-* 
+* lists all environments
 ```
-conda info --envs : lists all environments
+conda info --envs
 ```
 
 #### GraphLab Create
