@@ -22,6 +22,10 @@ jupyter notebook
 
 #### Conda Frequently Used Commands
 * ```conda info --envs  # lists all environments```
+* ```source activate <env name>  # activate an environment```
+* ```source deactivate  # deactivate an environment```
+* ```conda list  # list all packages installed```
+* ```conda create --name <env name> python=3 astroid babel  # create new environment, specify version of python, and install packages```
 
 #### GraphLab Create
 * [Personal Guide]( https://turi.com/download/install-graphlab-create.html?email=time2036%40gmail.com&key=0360-B08B-4F11-BC43-60C5-4A1E-AB71-8BF4&utm_medium=email&utm_source=transactional&utm_campaign=beta_registration_confirmation)
