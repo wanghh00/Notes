@@ -3,6 +3,7 @@
 * [14 Wychview Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/14-Wychview-Dr-Westfield-NJ-07090/40087022_zpid/) #Everything #WithOffer
 * [124 Effingham Pl, Westfield, NJ 07090](https://www.zillow.com/homedetails/124-Effingham-Pl-Westfield-NJ-07090/40085521_zpid/) #Everything?
 * [248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/) #NoGuestSuite
+* [12 Manchester Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/12-Manchester-Dr-Westfield-NJ-07090/40092193_zpid/) #EmptyLot
 * [140 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/140-Madison-Ave-Westfield-NJ-07090/119530831_zpid/)
 * [330 Edgewood Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/330-Edgewood-Ave-Westfield-NJ-07090/40085740_zpid/)
 * [750 Prospect St, Westfield, NJ 07090](https://www.zillow.com/homedetails/750-Prospect-St-Westfield-NJ-07090/40085320_zpid/)
