@@ -1,5 +1,5 @@
-### Visit Plan 2/19
 #### [West Field](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/27896_rid/3-_beds/5-_baths/500000-_price/1890-_mp/mostrecentchange_sort/40.682102,-74.300023,40.624539,-74.392291_rect/13_zm/X1.dash.SS1rudr2zlaj30r_3fm17_sse/)
+* ~~[1202 Boynton Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/1202-Boynton-Ave-Westfield-NJ-07090/2095485808_zpid/)~~ Backyard
 * [248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/)
 * [140 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/140-Madison-Ave-Westfield-NJ-07090/119530831_zpid/)
 * [330 Edgewood Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/330-Edgewood-Ave-Westfield-NJ-07090/40085740_zpid/)
