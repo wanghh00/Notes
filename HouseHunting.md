@@ -1,13 +1,13 @@
 #### [West Field](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/27896_rid/3-_beds/5-_baths/500000-_price/1890-_mp/mostrecentchange_sort/40.682102,-74.300023,40.624539,-74.392291_rect/13_zm/X1.dash.SS1rudr2zlaj30r_3fm17_sse/)
 * [150 Hamilton Ave,Westfield, NJ 07090](https://www.zillow.com/homes/for_sale/150-Hamilton-Ave,Westfield,-NJ-07090_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=buy) #Deal
-* [248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/)
+* [248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/) #NoGuestSuite
 * [140 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/140-Madison-Ave-Westfield-NJ-07090/119530831_zpid/)
 * [330 Edgewood Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/330-Edgewood-Ave-Westfield-NJ-07090/40085740_zpid/)
 * [750 Prospect St, Westfield, NJ 07090](https://www.zillow.com/homedetails/750-Prospect-St-Westfield-NJ-07090/40085320_zpid/)
 * [25 S Wickom Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/25-S-Wickom-Dr-Westfield-NJ-07090/40092824_zpid/)
 * [605 Short Hills Ct, Westfield, NJ 07090](https://www.zillow.com/homedetails/605-Short-Hills-Ct-Westfield-NJ-07090/40085578_zpid/)
 * [144 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/144-Madison-Ave-Westfield-NJ-07090/2100104143_zpid/)
-* ~~[1202 Boynton Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/1202-Boynton-Ave-Westfield-NJ-07090/2095485808_zpid/)~~ #Backyard
+* ~~[1202 Boynton Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/1202-Boynton-Ave-Westfield-NJ-07090/2095485808_zpid/)~~ #Bad_Backyard
 
 ### Visit Plan 1/29
 #### [Berkeley Heights](http://www.zillow.com/homes/for_sale/Berkeley-Heights-NJ/0_fr/1_fs/house_type/28407_rid/3-_beds/3.0-_baths/0-1500000_price/0-5729_mp/40.703838,-74.375811,40.647857,-74.468079_rect/X1-SS5duv6hdk0rnv_517ck_sse/)
