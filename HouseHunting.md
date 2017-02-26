@@ -1,3 +1,7 @@
+#### Princeton Junction
+* [11 Revere Ct, Princeton Junction, NJ 08550](https://www.zillow.com/homedetails/11-Revere-Ct-Princeton-Junction-NJ-08550/39037487_zpid/)
+* [23 Rosewood Ct, Princeton Junction, NJ 08550](https://www.zillow.com/homedetails/23-Rosewood-Ct-Princeton-Junction-NJ-08550/39036859_zpid/)
+
 #### [West Field](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/27896_rid/3-_beds/5-_baths/500000-_price/1890-_mp/mostrecentchange_sort/40.682102,-74.300023,40.624539,-74.392291_rect/13_zm/X1.dash.SS1rudr2zlaj30r_3fm17_sse/)
 * [150 Hamilton Ave,Westfield, NJ 07090](https://www.zillow.com/homes/for_sale/150-Hamilton-Ave,Westfield,-NJ-07090_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=buy) #Deal
 * [14 Wychview Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/14-Wychview-Dr-Westfield-NJ-07090/40087022_zpid/) #Everything, but with offer
