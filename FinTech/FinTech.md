@@ -21,11 +21,11 @@ jupyter notebook
 * [Using multiple Python engines 32Bit/64bit and 2.7/3.5](http://stackoverflow.com/questions/33709391/using-multiple-python-engines-32bit-64bit-and-2-7-3-5)
 
 #### Conda Frequently Used Commands
-* ```conda info --envs  # lists all environments```
-* ```source activate <env name>  # activate an environment```
-* ```source deactivate  # deactivate an environment```
-* ```conda list  # list all packages installed```
-* ```conda create --name <env name> python=3 package_1 package_2  # create new environment, specify version of python, and install packages```
+* ```conda info --envs```  # lists all environments
+* ```source activate <env name>```  # activate an environment
+* ```source deactivate```  # deactivate an environment
+* ```conda list```  # list all packages installed
+* ```conda create --name <env name> python=3 package_1 package_2```  # create new environment, specify version of python, and install packages
 * ```conda create --name flowers --clone snowflakes```  # clone an environment
 
 #### GraphLab Create
