@@ -19,6 +19,13 @@
 * http://www.pcadvisor.co.uk/how-to/desktop-pc/install-ssd-in-your-pc-3374767/
 * http://www.theeldergeek.com/windows_7/solid_state_drive_setup_00.htm
 
+#### U盘装Win7系统
+* http://www.xitongzhijia.net/zt/help/win7.html?type=u
+
+#### Tools
+* rufus: Create bootable USB drives the easy way
+* [EasyBCD](http://neosmart.net/EasyBCD/): Dual-boot with anything you could want.
+
 ### Notes
 * [系统之家 GHOST WIN7 SP1 X64 免激活旗舰版 V16.2_win7旗舰版64位](http://www.mohuishou.com/win7/1228.html)
 * ISO File Name: Js_64Win7Sp1z_x64_v2016.iso
@@ -33,13 +40,6 @@
 * [How to Properly Delete a OS in a Dual Boot](http://www.sevenforums.com/tutorials/210983-dual-boot-delete-os.html)
 * [Remove Dual Boot Menu – Fix for Windows](https://neosmart.net/wiki/remove-dual-boot-menu/)
 * [How-To Remove an OS from Windows Dual Boot Config](https://www.groovypost.com/howto/howto/how-to-remove-an-os-from-windows-dual-boot-config/)
-
-#### U盘装Win7系统
-* http://www.xitongzhijia.net/zt/help/win7.html?type=u
-
-#### Tools
-* rufus: Create bootable USB drives the easy way
-* [EasyBCD](http://neosmart.net/EasyBCD/): Dual-boot with anything you could want.
 
 ### Seems not good practice
 #### Windows 7 change default User location
