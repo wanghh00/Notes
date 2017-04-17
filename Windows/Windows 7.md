@@ -27,8 +27,11 @@
 * rufus: Create bootable USB drives the easy way
 * [EasyBCD](http://neosmart.net/EasyBCD/): Dual-boot with anything you could want.
 #### File synchronization software
+* FreeFileSync
+* robocopy
 * [What’s the best free file synchronization software for Windows](http://www.ghacks.net/2015/03/17/whats-the-best-free-file-synchronization-software-for-windows/)
 * [Comparison of file synchronization software](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
+
 
 ### Notes
 * [系统之家 GHOST WIN7 SP1 X64 免激活旗舰版 V16.2_win7旗舰版64位](http://www.mohuishou.com/win7/1228.html)
