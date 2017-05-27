@@ -6,15 +6,9 @@
 * [225 Golf Edge Dr, Westfield, NJ 07090](https://www.zillow.com/homes/225-Golf-Edge-Dr,-Westfield,-NJ-07090_rb/) (Over priced)
 * [12 Manchester Dr, Westfield, NJ 07090](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/40092193_zpid/27896_rid/3-_beds/4-_baths/500000-2000000_price/1906-7625_mp/mostrecentchange_sort/40.709206,-74.291182,40.597466,-74.401045_rect/12_zm/X1.dash.SS1ttyj6bexl7uz_a57uf_sse/) (Not ready)
 * ~~[14 Wychview Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/14-Wychview-Dr-Westfield-NJ-07090/40087022_zpid/) #Everything, but with offer~~
-* [124 Effingham Pl, Westfield, NJ 07090](https://www.zillow.com/homedetails/124-Effingham-Pl-Westfield-NJ-07090/40085521_zpid/) #Everything?
+* [124 Effingham Pl, Westfield, NJ 07090](https://www.zillow.com/homedetails/124-Effingham-Pl-Westfield-NJ-07090/40085521_zpid/) #bathroom issue
 * [8 Max Pl, Westfield, NJ 07090](https://www.zillow.com/homes/8-Max-Pl,Westfield,-NJ-07090_rb/) # Good deal, great neighborhood, only two bath, 2nd floor, in-law 1st floor
-* [248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/) #NoGuestSuite
-* [12 Manchester Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/12-Manchester-Dr-Westfield-NJ-07090/40092193_zpid/) #EmptyLot
-* [140 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/140-Madison-Ave-Westfield-NJ-07090/119530831_zpid/)
-* [750 Prospect St, Westfield, NJ 07090](https://www.zillow.com/homedetails/750-Prospect-St-Westfield-NJ-07090/40085320_zpid/)
-* [25 S Wickom Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/25-S-Wickom-Dr-Westfield-NJ-07090/40092824_zpid/)
-* [605 Short Hills Ct, Westfield, NJ 07090](https://www.zillow.com/homedetails/605-Short-Hills-Ct-Westfield-NJ-07090/40085578_zpid/)
-* [144 Madison Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/144-Madison-Ave-Westfield-NJ-07090/2100104143_zpid/)
+* ~~[248 Avon Rd, Westfield, NJ 07090](https://www.zillow.com/homedetails/248-Avon-Rd-Westfield-NJ-07090/40092010_zpid/) #NoGuestSuite~~
 * ~~[1202 Boynton Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/1202-Boynton-Ave-Westfield-NJ-07090/2095485808_zpid/)~~ #Bad_Backyard
 
 ### Visit Plan 1/29
