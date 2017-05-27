@@ -3,7 +3,6 @@
 * [1246 Summit Ave, Westfield, NJ 07090](https://www.zillow.com/homedetails/1246-Summit-Ave-Westfield-NJ-07090/40092454_zpid/) (Over priced)
 * [27 Plymouth Rd, Westfield, NJ 07090](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/40091152_zpid/27896_rid/3-_beds/4-_baths/500000-2000000_price/1906-7625_mp/mostrecentchange_sort/40.709206,-74.291182,40.597466,-74.401045_rect/12_zm/X1.dash.SS1ttyj6bexl7uz_a57uf_sse/)
 * [935 Minisink Way,Westfield, NJ 07090](https://www.zillow.com/homedetails/935-Minisink-Way-Westfield-NJ-07090/40084858_zpid/) # (6/6/1.5M)
-* [201 Baker Ave, Westfield, NJ 07090](https://www.zillow.com/homes/201-Baker-Ave,-Westfield,-NJ-07090_rb/)
 * [225 Golf Edge Dr, Westfield, NJ 07090](https://www.zillow.com/homes/225-Golf-Edge-Dr,-Westfield,-NJ-07090_rb/)
 * [12 Manchester Dr, Westfield, NJ 07090](https://www.zillow.com/homes/for_sale/Westfield-NJ/house_type/40092193_zpid/27896_rid/3-_beds/4-_baths/500000-2000000_price/1906-7625_mp/mostrecentchange_sort/40.709206,-74.291182,40.597466,-74.401045_rect/12_zm/X1.dash.SS1ttyj6bexl7uz_a57uf_sse/)
 * [14 Wychview Dr, Westfield, NJ 07090](https://www.zillow.com/homedetails/14-Wychview-Dr-Westfield-NJ-07090/40087022_zpid/) #Everything, but with offer
